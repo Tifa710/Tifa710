@@ -1,6 +1,6 @@
 <div align="center">
 
-👋 Hi, I'm Abdullatif Tarek
+👋 Hi, I'm Abdullatif Tarek <br>
 💻 Full-Stack Developer | Angular & .NET
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
@@ -92,24 +92,6 @@ A smart workout and nutrition planning application designed to provide users wit
 * REST APIs
 
 The project focuses on personalized workout plans, nutrition guidance, scheduling, reporting, and intelligent user assistance.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tifa710&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tifa710&theme=tokyonight&hide_border=true" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tifa710&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-
-</div>
-
----
 
 ## 📊 Profile Views
 
