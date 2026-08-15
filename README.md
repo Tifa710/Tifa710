@@ -20,7 +20,7 @@ I'm a **Software Engineering graduate** and **Full-Stack Developer** passionate 
 
 I specialize in **Angular** for frontend development and **ASP.NET Core / .NET** for backend development, with **SQL Server** for database management.
 
-Currently, I'm working in the **IT team at Bank of Cairo**, while continuously developing my software engineering skills and building real-world projects.
+Currently, I'm working in the **IT team at Banque Du Caire**, while continuously developing my software engineering skills and building real-world projects.
 
 ---
 
@@ -28,7 +28,7 @@ Currently, I'm working in the **IT team at Bank of Cairo**, while continuously d
 
 * 🎓 Software Engineering & IT graduate — Egyptian Chinese University
 * 💻 Full-Stack Developer specializing in **Angular & .NET**
-* 🏦 Currently working at **Bank of Cairo**
+* 🏦 Currently working at **Banque Du Caire**
 * 🌱 Continuously improving my skills in **Angular, .NET, APIs, and software architecture**
 * 🗄️ Experienced with **SQL Server, Entity Framework & LINQ**
 * 🔄 Experienced with **RxJS and reactive programming**
@@ -131,7 +131,7 @@ Tools
 
 ### Bank of Cairo — IT Team
 
-Currently working as part of the **IT team at Bank of Cairo**, gaining practical experience in enterprise IT environments and supporting organizational systems.
+Currently working as part of the **IT team at Banque Du Caire**, gaining practical experience in enterprise IT environments and supporting organizational systems.
 
 This experience has helped me develop my understanding of:
 
