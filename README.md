@@ -1,12 +1,12 @@
 <div align="center">
 
-#👋 Hey, I'm Abdullatif Tarek
+👋 Hey, I'm Abdullatif Tarek
 💻 Full-Stack Developer | Angular ⚡ .NET
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
 
 <br>
-
+</div>
 
 I'm a Software Engineering graduate and Full-Stack Developer passionate about building modern, scalable, and user-friendly web applications.
 
