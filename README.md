@@ -1,11 +1,13 @@
 <div align="center">
 
-👋 Hi, I'm Abdullatif Tarek <br>
-💻 Full-Stack Developer | Angular & .NET
+# 👋 Hi, I'm Abdullatif Tarek
+
+### 💻 Full-Stack Developer | Angular & .NET
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
 
 <br>
+
 </div>
 
 I'm a Software Engineering graduate and Full-Stack Developer passionate about building modern, scalable, and user-friendly web applications.
@@ -13,8 +15,6 @@ I'm a Software Engineering graduate and Full-Stack Developer passionate about bu
 I specialize in **Angular** for frontend development and **ASP.NET Core / .NET** for backend development, with **SQL Server** for database management.
 
 Currently, I'm working in the **IT team at Bank of Cairo**, while continuously developing my software engineering skills and building real-world projects.
-
-
 
 ---
 
@@ -25,6 +25,8 @@ Currently, I'm working in the **IT team at Bank of Cairo**, while continuously d
 * 🏦 Currently working at **Bank of Cairo**
 * 🌱 Continuously improving my skills in **Angular, .NET, APIs, and software architecture**
 * 🗄️ Experienced with **SQL Server, Entity Framework & LINQ**
+* 🔄 Experienced with **RxJS and reactive programming**
+* 🎨 Experienced with modern Angular UI libraries including **PrimeNG, Flowbite, and Bootstrap**
 * 🔐 Interested in building secure and scalable applications
 * 🎯 Goal: Become a strong **Full-Stack Software Engineer**
 
@@ -36,10 +38,13 @@ Currently, I'm working in the **IT team at Bank of Cairo**, while continuously d
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge\&logo=reactivex\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-41B883?style=for-the-badge\&logo=primevue\&logoColor=white)
+![Flowbite](https://img.shields.io/badge/Flowbite-1C64F2?style=for-the-badge\&logo=flowbite\&logoColor=white)
 
 ### Backend
 
@@ -47,7 +52,7 @@ Currently, I'm working in the **IT team at Bank of Cairo**, while continuously d
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge\&logo=.net\&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge\&logo=.NET\&logoColor=white)
 
 ### Database
 
@@ -66,11 +71,13 @@ Currently, I'm working in the **IT team at Bank of Cairo**, while continuously d
 ## 💻 Development Focus
 
 ```text
-Frontend        → Angular • TypeScript • JavaScript • HTML • CSS • Bootstrap
+Frontend        → Angular • TypeScript • RxJS • JavaScript
+                  HTML • CSS • Bootstrap • PrimeNG • Flowbite
 
 Backend         → C# • .NET • ASP.NET Core • REST APIs
+                  Entity Framework • LINQ
 
-Database        → SQL Server • Entity Framework • LINQ
+Database        → SQL Server
 
 Tools           → Git • GitHub • Visual Studio • VS Code • Postman
 ```
@@ -85,13 +92,16 @@ A smart workout and nutrition planning application designed to provide users wit
 
 **Technologies:**
 
-* Angular / Web technologies
+* Flutter
+* Dart
 * NestJS
 * PostgreSQL
 * AI-powered recommendations
 * REST APIs
 
 The project focuses on personalized workout plans, nutrition guidance, scheduling, reporting, and intelligent user assistance.
+
+---
 
 ## 📊 Profile Views
 
