@@ -8,6 +8,10 @@ I specialize in **Angular** for frontend development and **ASP.NET Core / .NET**
 
 Currently, I'm working in the **IT team at Bank of Cairo**, while continuously developing my software engineering skills and building real-world projects.
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
+
+<br\>
+
 ---
 
 ## 🚀 About Me
