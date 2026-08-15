@@ -4,7 +4,11 @@
 
 ### 💻 Full-Stack Developer | Angular & .NET
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
+<div align="center">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60%"/>
+
+</div>
 
 <br>
 
