@@ -174,7 +174,6 @@ This experience has helped me develop my understanding of:
 Alongside my professional work, I continue developing my skills as a **Full-Stack Developer** with a focus on **Angular and .NET**.
 
 
-
 ---
 
 # 📈 Profile Views
